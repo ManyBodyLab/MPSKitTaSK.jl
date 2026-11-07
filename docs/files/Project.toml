@@ -1,0 +1,5 @@
+[deps]
+MPSKitTaSK = "acfe2b09-804d-43c0-a5fd-ba711a9bf2c9"
+
+[compat]
+MPSKitTaSK = "0.1"
