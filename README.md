@@ -2,13 +2,9 @@
 
 # MPSKitTaSK.jl
 
-| **Documentation** | **Downloads** |
-|:-----------------:|:-------------:|
-| [![][docs-stable-img]][docs-stable-url] [![][docs-dev-img]][docs-dev-url] | [![Downloads][downloads-img]][downloads-url]
-
-<!-- | **Documentation** | **Digital Object Identifier** | **Citation** | **Downloads** |
-|:-----------------:|:-----------------------------:|:------------:|:-------------:|
-| [![][docs-stable-img]][docs-stable-url] [![][docs-dev-img]][docs-dev-url] | [![DOI][doi-img]][doi-url] | | [![Downloads][downloads-img]][downloads-url] -->
+| **Documentation** | **Digital Object Identifier** | **Downloads** |
+|:-----------------:|:-----------------------------:|:-------------:|
+| [![][docs-stable-img]][docs-stable-url] [![][docs-dev-img]][docs-dev-url] | [![DOI][doi-img]][doi-url] | [![Downloads][downloads-img]][downloads-url] |
 
 <!-- | **Build Status** | **PkgEval** | **Coverage** | **Style Guide** | **Quality assurance** |
 |:----------------:|:-----------:|:------------:|:---------------:|:---------------------:|
@@ -24,8 +20,8 @@
 [docs-dev-img]: https://img.shields.io/badge/docs-dev-blue.svg
 [docs-dev-url]: https://manybodylab.github.io/MPSKitTaSK.jl/dev
 
-[doi-img]: https://zenodo.org/badge/DOI/
-[doi-url]: https://doi.org/
+[doi-img]: https://zenodo.org/badge/DOI/10.5281/zenodo.24044972.svg
+[doi-url]: https://doi.org/10.5281/zenodo.24044972
 
 [downloads-img]: https://img.shields.io/badge/dynamic/json?url=http%3A%2F%2Fjuliapkgstats.com%2Fapi%2Fv1%2Ftotal_downloads%2FMPSKitTaSK&query=total_requests&label=Downloads
 [downloads-url]: http://juliapkgstats.com/pkg/MPSKitTaSK

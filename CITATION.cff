@@ -7,6 +7,11 @@ authors:
   - family-names: Feuerpfeil
     given-names: Andreas
 version: 0.1.0
+doi: 10.5281/zenodo.24044972
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.24044972
+    description: "Concept DOI (all versions)"
 license: Apache-2.0
 repository-code: "https://github.com/ManyBodyLab/MPSKitTaSK.jl"
 url: "https://manybodylab.github.io/MPSKitTaSK.jl/stable"
