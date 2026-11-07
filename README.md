@@ -61,9 +61,9 @@ The package is not yet registered in the Julia general registry. It can be insta
 pkg> add https://github.com/ManyBodyLab/MPSKitTaSK.jl
 ```
 
-<!-- ## Citation
+## Citation
 
-See "Cite this repository" to the right or [`CITATION.cff`](CITATION.cff) for the relevant reference(s). -->
+See "Cite this repository" to the right or [`CITATION.cff`](CITATION.cff) for the relevant reference(s). Please also cite the original TaSK paper, O. Kovalska, J. von Delft, and A. Gleis, [doi:10.1103/6f9c-gb69](https://doi.org/10.1103/6f9c-gb69) ([arXiv:2510.07279](https://arxiv.org/abs/2510.07279)).
 
 ## Code Samples
 

@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below, together with the original TaSK method paper listed under references."
+type: software
+title: "MPSKitTaSK.jl"
+abstract: "Tangent-space Krylov (TaSK) computation of real-frequency spectral functions for finite matrix product states, built on MPSKit.jl."
+authors:
+  - family-names: Feuerpfeil
+    given-names: Andreas
+version: 0.1.0
+license: Apache-2.0
+repository-code: "https://github.com/ManyBodyLab/MPSKitTaSK.jl"
+url: "https://manybodylab.github.io/MPSKitTaSK.jl/stable"
+keywords:
+  - matrix product states
+  - tensor networks
+  - spectral functions
+  - Krylov methods
+  - Julia
+references:
+  - type: article
+    title: "Tangent space Krylov computation of real-frequency spectral functions: Influence of density-assisted hopping on 2D Mott physics"
+    authors:
+      - family-names: Kovalska
+        given-names: Oleksandra
+      - family-names: von Delft
+        given-names: Jan
+      - family-names: Gleis
+        given-names: Andreas
+    year: 2025
+    doi: "10.1103/6f9c-gb69"
+    url: "https://arxiv.org/abs/2510.07279"
